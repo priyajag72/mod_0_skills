@@ -1,0 +1,13 @@
+Class: Chick-Fil-A on SW Military in San Antonio plate ID 001
+
+Attributes:
+color = "White"
+diameter = 11
+type = "Dinner plate"
+collectible = false
+
+Methods:
+calculateRadius: diameter / 2 = 5.5
+changeColor: color = "Blue"
+changeType: type = "Saucer"
+addCollectibleStatus: collectible = true
