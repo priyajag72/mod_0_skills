@@ -1,0 +1,13 @@
+Class: Plate
+
+Attributes:
+color (string)
+diameter (float)
+type (string)
+collectible (boolean)
+
+Methods:
+calculateRadius (divides diameter attribute by 2)
+changeColor (changes color attribute)
+changeType (changes type attribute)
+addCollectibleStatus (change collectible attribute from default false)
