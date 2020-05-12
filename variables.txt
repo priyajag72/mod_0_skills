@@ -1,0 +1,15 @@
+food = "endless amounts of sushi trays"
+is_delicious = false
+food = "I can settle for just one sushi tray"
+num2 = 47
+num7 = 3.6
+quotient = num7 / num2
+songs = ["Let It Go", "Colors of the Wind", "How Far I'll Go"]
+
+#I see two methods for Step#9
+Method 1: songs.shift will remove the first element
+Method 2: songs.drop(1) will remove the first element
+Resource (stack overflow)
+
+food.length
+Resource (ruby-doc)
