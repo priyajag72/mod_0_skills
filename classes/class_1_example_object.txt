@@ -1,0 +1,15 @@
+Object: Chick-Fil-A on SW Military in San Antonio front table
+
+Attributes:
+height = 36.4
+length = 48.9
+width = 11.03
+inUse = false
+color = "White"
+numberOfSeats = 0
+
+Methods:
+calculateVolume: height * length * width = 19632.9588
+assignUse: inUse = true
+changeColor: color = "Black"
+addSeat: numberOfSeats = 1
