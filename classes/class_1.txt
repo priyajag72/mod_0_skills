@@ -1,0 +1,15 @@
+Class: Table
+
+Attributes:
+height (float)
+length (float)
+width (float)
+inUse (boolean)
+color (string)
+numberOfSeats (integer)
+
+Methods:
+calculateVolume (multiplies height * length * width)
+assignUse (change inUse attribute from default false)
+changeColor (change color attribute)
+addSeat (appends my +1 the value of attribute numberOfSeats from default of 0)
